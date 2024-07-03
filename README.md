@@ -19,6 +19,12 @@ ___negrito e itálico___
 - lista 2
   - sublista
 
+1. Lista 1
+2. Lista 2
+   1. Sublista
+
+[Texto da imagem](https://i.pinimg.com/550x/10/b9/1c/10b91c742d5185bd96337c214da63e5f.jpg)
+
 <!--
 **estefano-v/estefano-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
