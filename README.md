@@ -30,7 +30,7 @@ ___negrito e itálico___
 
 |Cabecalho 1 | Cabecalho 2 |
 |------------|-------------|
-|  texto 1   |   texto 2   |
+|    texto 1 |   texto 2   |
 |--------------------------|
 
 [X] Tarefa 1 <br>
