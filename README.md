@@ -28,13 +28,13 @@ ___negrito e itálico___
 > ## Texto das Citações
 -----------------------------------
 
-|Cabecalho 1 | Cabecalho 2 |
-|------------|-------------|
-|    texto 1 |   texto 2   |
-|--------------------------|
+|Cabecalho 1 |  Cabecalho 2  |
+|------------|---------------|
+|    texto 1 |    texto 2    |
+|------------|---------------|
 
 [X] Tarefa 1 <br>
-[  ] Tarefa 2
+[   ] Tarefa 2
 
 <!--
 **estefano-v/estefano-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
