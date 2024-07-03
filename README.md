@@ -9,8 +9,15 @@
 ##### Título 5
 ###### Título 6
 
+*itálico* ou _itálico_
 
+**Negrito** ou __negrito__
 
+___negrito e itálico___
+
+- lista 1
+- lista 2
+  - sublista
 
 <!--
 **estefano-v/estefano-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
