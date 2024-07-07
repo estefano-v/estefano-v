@@ -4,7 +4,7 @@
 
 ![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
 
-> 
+> Complete list of github markdown emoji markup
 
 👽 Ola, me chamo Estefano Vercelli;
 
