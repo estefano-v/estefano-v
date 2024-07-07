@@ -32,11 +32,8 @@
 
 ### Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "100px">
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "100px">
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width = "100px"> <br>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width = "100px">
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width = "100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width = "100px"> <br>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width = "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width = "100px">
 
 | Cursos     | Certificados |<br>
 |--------- | ----------------------|<br>
