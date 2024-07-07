@@ -40,7 +40,7 @@ ___negrito e itálico___
 |-------------|-------------|
 
 [X] Tarefa 1 <br>
-[] Tarefa 2
+[ ] Tarefa 2
 
 <!--
 **estefano-v/estefano-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
