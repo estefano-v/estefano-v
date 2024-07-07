@@ -1,46 +1,9 @@
-## Hi there 👋
+## Sejam Bemm-Vindos ao Meu Mundo !
 
-<!-- Cabeçalhos --> 
+<center><h2> Sejam Bem-Vindos ao Meu Mundo !</h2></center>
 
-# Título 1
-## Título 2
-### Título 3 
-#### Título 4
-##### Título 5
-###### Título 6
+![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
 
-*itálico* ou _itálico_
-
-**Negrito** ou __negrito__
-
-___negrito e itálico___
-
-- lista 1
-- lista 2
-  - sublista
-
-1. Lista 1
-2. Lista 2  
-   1.Sublista
-
-[Texto da imagem](https://i.pinimg.com/550x/10/b9/1c/10b91c742d5185bd96337c214da63e5f.jpg)
-
-![Texto da imagem](https://i.pinimg.com/550x/10/b9/1c/10b91c742d5185bd96337c214da63e5f.jpg)
-
-`system.out.println()`
-
-```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println()```
-
-> ## Texto das Citações
-----------------------------
-
-| Cabecalho 1 | Cabecalho 2 |
-|-------------|-------------|
-|    texto 1  |   texto 2   |
-|-------------|-------------|
-
-- [X] Tarefa 1 <br>
-- [ ] Tarefa 2
 
 <!--
 **estefano-v/estefano-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
