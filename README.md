@@ -18,7 +18,7 @@
 
 👷 Me formei engenheiro de producao em 1989;
 
-😲 Trabalhei com testes, vendas e marketing em uma industria francesa;
+😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma industria francesa;
 
 👷 Fiz pos-graduacao em Adm/MKT em 1995;
 
