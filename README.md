@@ -27,15 +27,17 @@ ___negrito e itálico___
 
 ![Texto da imagem](https://i.pinimg.com/550x/10/b9/1c/10b91c742d5185bd96337c214da63e5f.jpg)
 
+`system.out.println()`
 
+```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println()```
 
 > ## Texto das Citações
 -----------------------------------
 
-|Cabecalho 1 |  Cabecalho 2  |
-|------------|---------------|
-|    texto 1 |    texto 2    |
-|------------|---------------|
+| Cabecalho 1 | Cabecalho 2 |
+|-------------|-------------|
+|    texto 1  |   texto 2   |
+|-------------|-------------|
 
 [X] Tarefa 1 <br>
 [] Tarefa 2
