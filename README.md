@@ -42,6 +42,7 @@
 | Redes Neurais       | [Certificado](https://hermes.dio.me/certificates/M8VEF0DA.pdf)<br>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
