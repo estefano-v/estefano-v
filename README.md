@@ -35,6 +35,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width = "100px"> <br>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width = "100px"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width = "100px">
 
+| Cursos     | Certificados |<br>
+|--------- | ----------------------|<br>
 | Machine Learning I   | [Certificado](https://hermes.dio.me/certificates/ZONANUVF.pdf)<br>
 | Machine Learning II | [Certificado](https://hermes.dio.me/certificates/7LUNKJM8.pdf)<br>
 | Redes Neurais      | [Certificado](https://hermes.dio.me/certificates/M8VEF0DA.pdf)<br>
