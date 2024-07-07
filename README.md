@@ -30,6 +30,15 @@
 
 👷 Estou estudando na DIO e pretendo me tornar um machine learning engineer
 
+### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width = "100px">
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "100px">
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width = "100px"> <br>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width = "100px">
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width = "100px">
+
+
 
 <!--
 **estefano-v/estefano-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
