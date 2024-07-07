@@ -28,7 +28,7 @@
 
 😲 Projetei e adotei na empresa o ERP e CRM baseado em Excel;
 
-👷 Estou estudando na DIO e pretendo me tornar um machine learning engineer
+👷 Estou estudando na DIO e pretendo me tornar machine learning engineer
 
 ### Minhas Tecnologias
 
@@ -39,7 +39,7 @@
 |--------- | ----------------------|<br>
 | Machine Learning I   | [Certificado](https://hermes.dio.me/certificates/ZONANUVF.pdf)<br>
 | Machine Learning II | [Certificado](https://hermes.dio.me/certificates/7LUNKJM8.pdf)<br>
-| Redes Neurais | [Certificado](https://hermes.dio.me/certificates/M8VEF0DA.pdf)<br>
+| Redes Neurais      | [Certificado](https://hermes.dio.me/certificates/M8VEF0DA.pdf)<br>
 
 
 
