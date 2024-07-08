@@ -28,7 +28,7 @@
 
 😲 Projetei e adotei na empresa o ERP e CRM baseado em Excel;
 
-👷 Estou estudando na DIO e pretendo me tornar machine learning engineer
+👷 Estou estudando na DIO e pretendo me tornar machine learning engineer, aplicando AI na industria cosmetica.
 
 ### Minhas Tecnologias
 
