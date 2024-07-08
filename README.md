@@ -40,6 +40,10 @@
 | Machine Learning I  | [Certificado](https://hermes.dio.me/certificates/ZONANUVF.pdf)<br>
 | Machine Learning II | [Certificado](https://hermes.dio.me/certificates/7LUNKJM8.pdf)<br>
 | Redes Neurais       | [Certificado](https://hermes.dio.me/certificates/M8VEF0DA.pdf)<br>
+| Algoritmos de SVM   | [Certificado](https://hermes.dio.me/certificates/TPA98I8P.pdf)<br>
+|Algoritmos Geneticos | [Certificado](hermes.dio.me/certificates/HIMWJOJN.pdf)<br>
+| Metodos de ML       | [Certificado](hermes.dio.me/certificates/08XVJCKC.pdf)<br>
+
 
 
 ![Estefano Vercelli GitHub stats](https://github-readme-stats.vercel.app/api?username=estefano-v&show_icons=true&theme=radical)
