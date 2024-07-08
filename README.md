@@ -2,7 +2,7 @@
 
 <center><h2> Sejam Bem-Vindos ao Meu Mundo !</h2></center>
 
-![gif do gatinho](https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif)
+![gif do gatinho](https://img.freepik.com/fotos-premium/um-gato-de-terno-esta-sentado-em-um-computador-com-um-laptop-na-frente-dele_905510-3882.jpg?w=2000)
 
 > Complete list of github markdown emoji markup
 
