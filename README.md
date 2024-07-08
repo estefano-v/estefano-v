@@ -43,7 +43,8 @@
 | Algoritmos de SVM   | [Certificado](https://hermes.dio.me/certificates/TPA98I8P.pdf)<br>
 |Algoritmos Geneticos | [Certificado](hermes.dio.me/certificates/HIMWJOJN.pdf)<br>
 | Metodos de ML       | [Certificado](hermes.dio.me/certificates/08XVJCKC.pdf)<br>
-
+| Dados com Python    | [Certificado](hermes.dio.me/certificates/W8S60R72.pdf)<br>
+| Python para ML      | [Certificado](hermes.dio.me/certificates/0VLSRUGT.pdf)<br>
 
 
 ![Estefano Vercelli GitHub stats](https://github-readme-stats.vercel.app/api?username=estefano-v&show_icons=true&theme=radical)
