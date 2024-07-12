@@ -2,7 +2,7 @@
 
 <center><h2> Sejam Bem-Vindos ao Meu Mundo !</h2></center>
 
-![gif do gatinho](https://img.freepik.com/fotos-premium/um-gato-de-terno-esta-sentado-em-um-computador-com-um-laptop-na-frente-dele_905510-3882.jpg?w=2000)
+![gif do gatinho]("https://img.freepik.com/fotos-premium/um-gato-de-terno-esta-sentado-em-um-computador-com-um-laptop-na-frente-dele_905510-3882.jpg?w=1000)
 
 
 
