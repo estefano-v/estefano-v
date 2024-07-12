@@ -8,19 +8,19 @@
 
 👽 Ola, me chamo Estefano Vercelli;
 
-😲 Trabalhei como desenhista-projetista em uma industria automobilistica em 1976;
+😲 Trabalhei como desenhista-projetista na Volkswagen do Brasil em 1976;
 
 😲 Trabalhei como professor de BASIC/FORTRAN em 1980;
 
-👷 Me formei engenheiro eletrico/eletronico em 1986;
+👷 Me formei engenheiro eletrico/eletronico na FEI em 1986;
 
 😲 Trabalhei com projetos de Centrais Telefonicas microprocessadas em uma empresa brasileira;
 
-👷 Me formei engenheiro de producao em 1989;
+👷 Me formei engenheiro de producao na FEI em 1989;
 
 😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma industria francesa;
 
-👷 Fiz pos-graduacao em Adm/MKT em 1995;
+👷 Fiz pos-graduacao em Adm/MKT na FAAP em 1995;
 
 😲 Trabalhei com projetos de seguranca e CFTV para empresas;
 
