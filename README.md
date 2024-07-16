@@ -18,7 +18,7 @@
 
 👷 Me formei engenheiro de producao na FEI em 1989;
 
-😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma industria francesa;
+😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma multinacional francesa;
 
 👷 Fiz pos-graduacao em Adm/MKT na FAAP em 1995;
 
