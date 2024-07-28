@@ -18,11 +18,11 @@
 
 👷 Me formei engenheiro de producao na FEI em 1989;
 
-😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma multinacional francesa;
+😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma multinacional francesa até 1996;
 
 👷 Fiz pos-graduacao em Adm/MKT na FAAP em 1995;
 
-😲 Trabalhei com projetos de seguranca e CFTV para empresas;
+😲 Trabalhei com projetos de seguranca e CFTV para empresas até 1998;
 
 😲 Construi do zero uma industria cosmetica da qual sou CEO ate hoje;
 
