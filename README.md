@@ -14,19 +14,19 @@
 
 👷 Me formei engenheiro eletrico/eletronico na FEI em 1986;
 
-😲 Trabalhei com projetos de Centrais Telefonicas microprocessadas em uma empresa brasileira;
+😲 Trabalhei com projetos de Centrais Telefonicas microprocessadas em uma empresa brasileira (Fasor);
 
 👷 Me formei engenheiro de producao na FEI em 1989;
 
-😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma multinacional francesa até 1996;
+😲 Trabalhei como eng.testes, chefe/vendas e gerente/marketing em uma multinacional francesa até 1996 (Telemecanique);
 
 👷 Fiz pos-graduacao em Adm/MKT na FAAP em 1995;
 
-😲 Trabalhei com projetos de seguranca e CFTV para empresas até 1998;
+😲 Trabalhei com projetos de seguranca e CFTV para empresas até 1998 (Detecta);
 
-😲 Construi do zero uma industria cosmetica da qual sou CEO ate hoje;
+😲 Construi do zero uma industria cosmetica da qual sou CEO ate hoje (Tover Ltda);
 
-😲 Projetei e adotei na empresa o ERP e CRM baseado em Excel;
+😲 Projetei e adotei na empresa um ERP e CRM baseado em Excel;
 
 👷 Estou estudando na DIO e pretendo me tornar machine learning engineer, aplicando AI na industria cosmetica.
 
